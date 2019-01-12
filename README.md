@@ -1,7 +1,7 @@
 # 365-Waveform Drawer
 
-### Function
-**Reads wave files and outputs the file's audio waveform.**
+## Function
+**Reads wave files and outputs the file's audio waveform.** <br>
 The number of samples in the file and the maximum sample value are listed in the top-right of the waveform diagram.
 
 Accepted audio files are PCM coded and in mono channel.<br>
