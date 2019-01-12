@@ -9,7 +9,7 @@ The file will also need to contain less than 6536 samples.<br>
 Test samples are provided in its respective folder.
 
 ## Sample Output
-![Sample Output](/sample_output.PNG?raw=true "sample output")
+![Sample Output](https://github.com/EricSHuang/365-Waveform-Drawer/blob/master/Sample%20Output.PNG "sample output")
 
 ## Context
 Made as a school project for CMPT365 in the June 2018.
