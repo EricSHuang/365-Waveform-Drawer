@@ -8,5 +8,8 @@ Accepted audio files need to be PCM coded and in mono channel.<br>
 The file will also need to contain less than 6536 samples.<br>
 Test samples are provided in its respective folder.
 
+## Sample Output
+![test](/sample_output.png?raw=true "sample output")
+
 ## Context
 Made as a school project for CMPT365 in the June 2018.
