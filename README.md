@@ -12,4 +12,4 @@ Test samples are provided in their respective folder.
 ![Sample Output](https://github.com/EricSHuang/365-Waveform-Drawer/blob/master/Sample%20Output.PNG "sample output")
 
 ## Context
-Made as a school project for CMPT365 in June 2018.
+Made for a school project for CMPT365 in June 2018.
